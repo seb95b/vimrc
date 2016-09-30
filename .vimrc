@@ -4,5 +4,5 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set colorcolumn=80
-set filetype plugin indent on
+filetype plugin indent on
 set encoding=utf8
