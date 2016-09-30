@@ -1,6 +1,8 @@
+set syntax=on
 set autoindent
-set smartindent
-"set expandtab
+set expandtab
 set tabstop=4
 set shiftwidth=4
+set colorcolumn=80
+set filetype plugin indent on
 set encoding=utf8
