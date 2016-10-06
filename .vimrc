@@ -1,4 +1,4 @@
-set syntax=on
+syntax on
 set autoindent
 set expandtab
 set tabstop=4
