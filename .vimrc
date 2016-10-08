@@ -9,3 +9,4 @@ filetype plugin indent on
 set encoding=utf8
 set statusline=%t\ %m\ %r\ %=\ line:%l\ column:%c\ %P
 set laststatus=2
+set mouse=a
